@@ -1,6 +1,7 @@
 # 😈 Ultimate Chaos Prank
 
-![Batch](https://img.shields.io/badge/Batch-3.x-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Batch](https://img.shields.io/badge/Batch-3.x-blue) ![License](https://img.shields.io/badge/License-Apache--2.0-green) ![License](https://img.shields.io/badge/License-ASLv1.0%20by%20Rafasha%20Alfiandi-red)
+
 
 
 ## 🚨 Deskripsi
