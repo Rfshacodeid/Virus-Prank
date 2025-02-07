@@ -1,5 +1,8 @@
 # 😈 Ultimate Chaos Prank
 
+![Batch](https://img.shields.io/badge/Batch-3.x-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## 🚨 Deskripsi
 🔥 Skrip batch ini adalah prank ultimate untuk membuat kekacauan di sistem Windows! 🔥
 
