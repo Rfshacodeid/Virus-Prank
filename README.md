@@ -1,11 +1,11 @@
-# 😈 Ultimate Chaos Prank
+# 😈 TrojanForce v1.0
 
 ![Batch](https://img.shields.io/badge/Batch-3.x-blue) ![License](https://img.shields.io/badge/License-Apache--2.0-green) ![License](https://img.shields.io/badge/License-ASLv1.0%20by%20Rafasha%20Alfiandi-red)
 
 
 
 ## 🚨 Deskripsi
-🔥 Skrip batch ini adalah prank ultimate untuk membuat kekacauan di sistem Windows! 🔥
+🔥 Skrip batch ini adalah TrojanForce v1.0 untuk membuat kekacauan di sistem Windows! 🔥
 
 Skrip ini bisa melakukan berbagai tindakan prank mengganggu, seperti mengubah wallpaper 🖼️, membuka banyak jendela 📂, menampilkan pesan peringatan ⚠️, dan menjalankan aplikasi secara otomatis 🚀. 
 
